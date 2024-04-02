@@ -1,7 +1,7 @@
 # prototype-spotify
 
 # Spotifu
-**Spotifu** es una interfaz web inspirado en Spotify para Desktop. [Puedes verlo aquí.]()
+**Spotifu** es una interfaz web inspirado en Spotify para Desktop. [Puedes verlo aquí.](https://johanserna1023.github.io/prototype-spotify/)
 
 ## Consideraciones técnicas sobre el proyecto
 - Se utilizó Icon Fonts mediante [IcoMoon App](https://icomoon.io/).
